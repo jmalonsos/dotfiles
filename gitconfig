@@ -14,5 +14,7 @@
 	ds = diff --staged
 	dc = diff --cached
 	dw = diff --word-diff
+	lp = log -p
+	logme = log --author=Joan --stat -C
 [core]
 	editor = vim
