@@ -7,5 +7,7 @@
 	s = status -u -s
 	c = commit
 	ca = commit -a
+	br = branch
+	co = checkout
 [core]
 	editor = vim
