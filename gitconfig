@@ -1,0 +1,7 @@
+[user]
+	name = Joan Manuel Alonso Salvador
+	email = joan.alonsosalvador@hotmail.com
+[color]
+	ui = true
+[core]
+	editor = vim
