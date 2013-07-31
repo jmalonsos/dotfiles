@@ -9,5 +9,10 @@
 	ca = commit -a
 	br = branch
 	co = checkout
+	d = diff --color-words
+	dh = diff HEAD
+	ds = diff --staged
+	dc = diff --cached
+	dw = diff --word-diff
 [core]
 	editor = vim
