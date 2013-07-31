@@ -3,5 +3,9 @@
 	email = joan.alonsosalvador@hotmail.com
 [color]
 	ui = true
+[alias]
+	s = status -u -s
+	c = commit
+	ca = commit -a
 [core]
 	editor = vim
