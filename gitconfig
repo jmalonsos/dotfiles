@@ -16,5 +16,6 @@
 	dw = diff --word-diff
 	lp = log -p
 	logme = log --author=Joan --stat -C
+    lgraph = log --graph --pretty=format:'%C(bold red)%h %C(bold blue)%an,%C(bold yellow)%d %C(bold white)%s %C(bold green)(%cr)' --abbrev-commit --date=relative
 [core]
 	editor = vim
