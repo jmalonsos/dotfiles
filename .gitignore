@@ -1,3 +1,4 @@
 # avoid tracking next folders and files
 *.swp
 *.netrwhist
+*~
