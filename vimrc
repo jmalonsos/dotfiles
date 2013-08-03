@@ -13,6 +13,9 @@ set number
 " syntax and highlighting
 syntax enable
 set hlsearch
+let g:solarized_termcolors=256
+set background=light
+colorscheme solarized
 
 " messages and info
 set showcmd
