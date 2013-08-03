@@ -1,7 +1,7 @@
 " pathogen plugin manager
 call pathogen#infect()
 
-"use vim features instead vi
+" use vim features instead vi
 set nocompatible
 
 " searching
