@@ -32,3 +32,9 @@ set softtabstop=4
 set tabstop=4
 set shiftround
 
+" arrow keys disabled
+map <Left> <Nop>
+map <Right> <Nop>
+map <Up> <Nop>
+map <Down> <Nop>
+
