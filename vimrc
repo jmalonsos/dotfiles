@@ -11,11 +11,13 @@ set incsearch
 set number
 
 " syntax and highlighting
-syntax enable
+syntax on
+filetype plugin indent on
 set hlsearch
 let g:solarized_termcolors=256
 set background=light
 colorscheme solarized
+set cursorline
 
 " messages and info
 set showcmd
