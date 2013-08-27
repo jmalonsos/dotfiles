@@ -9,10 +9,14 @@ set incsearch
 
 " displaying text
 set number
+set fileencoding=utf-8
+set encoding=utf-8
 
 " syntax and highlighting
 syntax on
-filetype plugin indent on
+filetype on
+filetype indent on
+filetype plugin on
 set hlsearch
 let g:solarized_termcolors=256
 set background=light
