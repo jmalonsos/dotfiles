@@ -21,3 +21,5 @@
 	editor = vim
 [github]
 	user = jmalonsos
+[help]
+	autocorrect = 1
